@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="kurti.css">
+</head>
+<body>
+    <div>
+    
+    <nav>
+        <h1>clothing <br>website</h1>
+        <a href="project.html">Home</a>
+        <a href="saree.html">Saree</a>
+        <a href="">Kurties</a>
+        <a href="">lehenga</a>
+        <a href="contact.html">contact</a>
+       
+    </nav>
+    </div>
+<div class="main">
+    <div class="box">
+       <a href=""> <img src="sk1.jpg" alt=""> short kurties</a>
+    </div>
+    <div class="box">
+       <a href=""> <img src="stk1.jpg" alt=""> strigth kurties</a>
+    </div>
+    <div class="box">
+      <a href=""> <img src="ak1.jpg" alt="">anarkali kurties </a>
+    </div>
+     <div class="box">
+       <a href="dlk.html"> <img src="dlk1.jpg" alt="">double layer kurties</a>  
+        </div>
+     <div class="box">
+       <a href=""> <img src="pk1.jpg" alt=""> peplum kurties</a>
+    </div>
+     <div class="box">
+       <a href=""> <img src="dk1.jpg" alt="">denim kurties </a>
+    </div>
+</div>
+</main></marquee>
+<footer>
+  <div class="footer-container">
+    <div class="footer-about">
+      <h2> 7 rang Sarees</h2>
+      <p>Where tradition meets elegance. Explore our exclusive collection of handcrafted sarees made with love, culture, and timeless beauty.</p>
+    </div>
+
+    <div class="footer-links">
+      <h3>Quick Links</h3>
+      <ul>
+        <li><a href="project.html">Home</a></li>
+        <li><a href="saree.html">Saree</a></li>
+        <li><a href="#">Kurties</a></li>
+        <li><a href="#">lehenga</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-contact">
+      <h3>Contact Us</h3>
+      <p>📞 </p>
+      <p>✉️ support@7RANGsarees.com</p>
+    </div>
+
+    <div class="footer-social">
+      <h3>Follow Us</h3>
+      <a href="#">🌸 Instagram</a><br>
+      <a href="#">📘 Facebook</a><br>
+      <a href="#">📷 Pinterest</a><br>
+      <a href="#">🎥 YouTube</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>© 2025 7 rang Sarees | Designed with ❤️ in India</p>
+  </div>
+</footer>
+</body>
+</html>
